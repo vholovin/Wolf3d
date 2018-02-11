@@ -43,6 +43,4 @@ from '`1`' to '`3`' - Choose map
 '`~`' - Choose mode
 
 
-# '`R`' - Reset
-
 # '`esc`' - Exit
